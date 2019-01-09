@@ -6,9 +6,6 @@ install:
 script:
   - msbuild /p:Configuration=Debug Lab5.sln
   - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./NUnit.Tests1/bin/Debug/NUnit.Tests1.dll
-  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./NUnit.Tests2/bin/Debug/NUnit.Tests2.dll
-  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./NUnit.Tests3/bin/Debug/NUnit.Tests3.dll
-  
 notifications:
   email:
     on_success: change
