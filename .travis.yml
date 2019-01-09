@@ -1,0 +1,13 @@
+language: csharp
+solution: Lab5.sln
+install:
+  - nuget restore Lab5.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Debug Lab5.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./NUnit.Tests1/bin/Debug/NUnit.Tests1.dll
+  
+notifications:
+  email:
+    on_success: change
+    on_failure: always

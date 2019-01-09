@@ -1,0 +1,7 @@
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\bin\Debug\nunit.framework.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\bin\Debug\nunit.framework.xml
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

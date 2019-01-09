@@ -1,0 +1,9 @@
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\NUnit.Tests3.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\NUnit.Tests3.pdb
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\Lab5.exe
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\nunit.framework.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\Lab5.pdb
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\bin\Debug\nunit.framework.xml
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\obj\Debug\NUnit.Tests3.csprojResolveAssemblyReference.cache
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\obj\Debug\NUnit.Tests3.dll
+D:\Tasks\Максим\ТП\Lab5\NUnit.Tests3\obj\Debug\NUnit.Tests3.pdb
